@@ -3,8 +3,8 @@
 Plugin Name:       GitHub Updater
 Plugin URI:        https://github.com/dashboard-repo/cloned
 Description:       A plugin to automatically update GitHub, Bitbucket or GitLab hosted plugins and themes. It also allows for remote installation of plugins or themes into WordPress.
-Version:           2.0.0
-Author:            batmanR
+Version:           5.0.0
+Author:            batman
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 Domain Path:       /languages
